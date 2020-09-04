@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hill_cipher", "Hill_cipher\Hill_cipher.vcxproj", "{FBD76B65-B288-413E-8574-60EAB687F6FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Debug|x64.ActiveCfg = Debug|x64
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Debug|x64.Build.0 = Debug|x64
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Debug|x86.Build.0 = Debug|Win32
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Release|x64.ActiveCfg = Release|x64
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Release|x64.Build.0 = Release|x64
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Release|x86.ActiveCfg = Release|Win32
+		{FBD76B65-B288-413E-8574-60EAB687F6FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94C37293-2744-4E6F-B5B8-9B15943F8D60}
+	EndGlobalSection
+EndGlobal
